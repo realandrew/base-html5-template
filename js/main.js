@@ -1,7 +1,5 @@
 /*
 * Author: 
-* Creation date: 
-* Last modified date: 
 * Copyright © <name> <year>
 */
 
