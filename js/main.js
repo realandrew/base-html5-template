@@ -1,9 +1,9 @@
 /*
-* Author: 
+* Author: <name>
 * Copyright © <name> <year>
 */
 
-// Runs after documents and content finish loading
+// Runs after document and content finish loading
 window.onload = () => {
 
 }
