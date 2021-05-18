@@ -1,6 +1,5 @@
 /*
-* Author: <name>
-* Copyright © <name> <year>
+* Copyright © <year> <name>
 */
 
 // Runs after document and content finish loading

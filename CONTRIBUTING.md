@@ -22,9 +22,9 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 4. Ensure the test suite passes.
 5. Issue that pull request!
 
-## Any contributions you make will be under the GNU v3 Software License
+## Any contributions you make will be under the MIT License
 
-In short, when you submit code changes, your submissions are understood to be under the same LGPL-3.0 license that covers the project. Feel free to contact the maintainers if that's a concern.
+In short, when you submit code changes, your submissions are understood to be under the same MIT license that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using Github's [issues](https://github.com/realandrew/base-html5-template/issues)
 
@@ -44,8 +44,10 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 ## Use a Consistent Coding Style
 
-- 4 spaces for indentation rather than tabs
+- 1 tab for indentation rather than spaces
+
+(I'm open to improving/changing the coding style in the future, for now this just follows my personal preference.)
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under its LGPL-3.0 license.
+By contributing, you agree that your contributions will be licensed under its MIT license.
